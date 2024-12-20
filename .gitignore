@@ -1,0 +1,16 @@
+# .gitignore
+# Conda
+conda-env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+
+# Output files
+output/*.mp4
+
+# OS-specific
+.DS_Store
